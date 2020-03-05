@@ -1,4 +1,4 @@
-# Quick SQL Cheatsheet
+# SQL Cheatsheet - Kanti am Brüh
 
 [<img src="https://gifimage.net/wp-content/uploads/2017/09/back-button-gif-4.gif">](https://ict-berufsbildung.info/course/view.php?id=96&section=9)
 

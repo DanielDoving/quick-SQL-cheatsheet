@@ -1,5 +1,7 @@
 # Quick SQL Cheatsheet
 
+[<img src="https://gifimage.net/wp-content/uploads/2017/09/back-button-gif-4.gif">](https://ict-berufsbildung.info/course/view.php?id=96&section=9)
+
 A quick reminder of all relevant SQL queries and examples on how to use them. 
 
 This repository is constantly being updated and added to by the community. 
@@ -194,6 +196,4 @@ Pull requests are welcome. Enjoy!
    `column4` `datatype`, <br />
    `);`
    
-   
   
-   https://ict-berufsbildung.info/course/view.php?id=96&section=9
